@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Java-Sprint",
+			"path": "."
+		},
+		{
+			"path": "../New folder"
+		}
+	],
+	"settings": {}
+}
